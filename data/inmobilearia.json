@@ -7,7 +7,8 @@
         "img": "https://http2.mlstatic.com/D_NQ_NP_780887-MLM52169171072_102022-O.webp",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.5
     },
 
     {
@@ -18,7 +19,8 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/Orchard_House_from_Little_Women.jpeg",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.2
     },
 
     {
@@ -29,7 +31,8 @@
         "img": "https://http2.mlstatic.com/D_NQ_NP_780556-MLM52053919322_102022-O.webp",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.1
     },
 
 
@@ -41,7 +44,8 @@
         "img": "https://http2.mlstatic.com/D_NQ_NP_622602-MLM52358215652_112022-O.webp",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.0
     },
 
     {
@@ -52,7 +56,8 @@
         "img": "https://i.pinimg.com/originals/c6/42/33/c6423322c5d41c78a283728ad776a279.gif",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.5
     },
 
     {
@@ -63,7 +68,8 @@
         "img": "https://s37805.pcdn.co/fotocasa-life/wp-content/uploads/2019/07/mansiones-4.jpg.optimal.jpg",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.9
     },
 
     {
@@ -74,7 +80,8 @@
         "img": "https://http2.mlstatic.com/D_NQ_NP_780887-MLM52169171072_102022-O.webp",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.5
     },
 
     {
@@ -85,7 +92,8 @@
         "img": "https://elceo.com/wp-content/uploads/2019/02/casa.jpg",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.7
     },
 
     {
@@ -96,7 +104,8 @@
         "img": "https://realestatemarket.com.mx/images/2020/06-Junio/3006/mayo_venta_vivienda_estados_unidos_g.jpeg",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.8
     },
 
     {
@@ -107,7 +116,8 @@
         "img": "https://img.jamesedition.com/listing_images/2022/05/31/15/10/36/98e6abc6-24e5-46cd-bdd9-08e286707392/je/1000x620xc.jpg",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 4.9
     },
 
     {
@@ -118,6 +128,7 @@
         "img": "https://marcianosmx.com/wp-content/uploads/2020/01/casa-en-los-estados-unidos-con-cesped.jpg",
         "bathrooms": 2,
         "tf": 230,
-        "price": 440
+        "price": 440,
+        "puntuacion": 5.0
     }
 ]
