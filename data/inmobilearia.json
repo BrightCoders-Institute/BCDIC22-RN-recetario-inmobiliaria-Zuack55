@@ -1,93 +1,123 @@
-
 [
-{
-"address": "3517 W. Gray St. Utica",
-"bathrooms": 2,
-"cost": 440,
-"favorite": null,
-"name": "The Willows",
-"qualification": 4.7,
-"rooms": 3,
-"surface": {
-"lenght": 10,
-"width": 23,
-"heigth": null,
-"unit": "ft"
-}
-},
-{
-"address": "3517 W. Gray St. Utica",
-"bathrooms": 2,
-"cost": 440,
-"favorite": null,
-"name": "Orchard House",
-"qualification": 4.7,
-"rooms": 3,
-"surface": {
-"lenght": 10,
-"width": 23,
-"heigth": null,
-"unit": "ft"
-}
-},
-{
-"address": "3517 W. Gray St. Utica",
-"bathrooms": 2,
-"cost": 440,
-"favorite": null,
-"name": "Orchard House",
-"qualification": 4.7,
-"rooms": 3,
-"surface": {
-"lenght": 10,
-"width": 23,
-"heigth": null,
-"unit": "ft"
-}
-},
-{
-"address": "3517 W. Gray St. Utica",
-"bathrooms": 2,
-"cost": 440,
-"favorite": null,
-"name": "The Willows",
-"qualification": 4.7,
-"rooms": 3,
-"surface": {
-"lenght": 10,
-"width": 23,
-"heigth": null,
-"unit": "ft"
-}
-},
-{
-"address": "3517 W. Gray St. Utica",
-"bathrooms": 2,
-"cost": 440,
-"favorite": null,
-"name": "Corner House",
-"qualification": 4.7,
-"rooms": 3,
-"surface": {
-"lenght": 10,
-"width": 23,
-"heigth": null,
-"unit": "ft"
-}
-},
-{
-"address": "3517 W. Gray St. Utica",
-"bathrooms": 2,
-"cost": 440,
-"favorite": null,
-"name": "Orchard House",
-"qualification": 4.7,
-"rooms": 3,
-"surface": {
-"lenght": 10,
-"width": 23,
-"heigth": null,
-"unit": "ft"
-}
-}
+    {
+        "id": "1",
+        "name": "The Willows",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_780887-MLM52169171072_102022-O.webp",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "2",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/Orchard_House_from_Little_Women.jpeg",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "3",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_780556-MLM52053919322_102022-O.webp",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+
+    {
+        "id": "4",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_622602-MLM52358215652_112022-O.webp",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "5",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://i.pinimg.com/originals/c6/42/33/c6423322c5d41c78a283728ad776a279.gif",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "6",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://s37805.pcdn.co/fotocasa-life/wp-content/uploads/2019/07/mansiones-4.jpg.optimal.jpg",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "7",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_780887-MLM52169171072_102022-O.webp",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "8",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://elceo.com/wp-content/uploads/2019/02/casa.jpg",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "9",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://realestatemarket.com.mx/images/2020/06-Junio/3006/mayo_venta_vivienda_estados_unidos_g.jpeg",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "10",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://img.jamesedition.com/listing_images/2022/05/31/15/10/36/98e6abc6-24e5-46cd-bdd9-08e286707392/je/1000x620xc.jpg",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    },
+
+    {
+        "id": "11",
+        "name": "Orchard House",
+        "ubi": "3517 W. Gray St. Utica",
+        "room": 3,
+        "img": "https://marcianosmx.com/wp-content/uploads/2020/01/casa-en-los-estados-unidos-con-cesped.jpg",
+        "bathrooms": 2,
+        "tf": 230,
+        "price": 440
+    }
 ]
