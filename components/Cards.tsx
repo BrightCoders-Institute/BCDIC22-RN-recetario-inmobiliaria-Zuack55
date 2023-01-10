@@ -11,12 +11,12 @@ class ScrollViewExample extends Component {
     render() {
         return (
             <View>
-                <ScrollView>
+                <ScrollView testID='scrollcards'>
                     {
                         inmobileariaTs.map((item) => (
-                            <TouchableOpacity key={item.id}>
+                            <TouchableOpacity testID='DataInmovilearia' key={item.id}>
                                 <View style={styles.item} >
-                                    <View>
+                                    <View testID='imgCard'>
                                         <Image source={{ uri: item.img }} style={styles.styleimage} />
                                         <View style={styles.StyleItemStart}>
                                             <Image source={require('../img/icons/start.png')} style={styles.StyleIconStart} />
@@ -52,7 +52,7 @@ class ScrollViewExample extends Component {
                                         {/* Precio y corazon bajo */}
                                         <View style={{ flexDirection: 'row', marginTop: 10, marginLeft: 5 }}>
                                             <View style={{ flexDirection: 'row' }}>
-                                                <Text style={styles.styleUnitys}>${item.price}/m</Text>
+                                                <Text style={styles.styleUnitys}>$ {item.price}/m</Text>
                                             </View>
 
                                             {/* Icono de corazon color */}

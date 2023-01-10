@@ -1,14 +1,27 @@
-/**
- * @format
- */
+import React from "react";
+import { render } from "@testing-library/react-native";
+import Cards from "../components/Cards";
+import App from "../App";
 
-import 'react-native';
-import React from 'react';
-import App from '../App';
+let component: any;
 
-// Note: test renderer must be required after react-native.
-import renderer from 'react-test-renderer';
+describe("Cards", () => {
+    beforeEach(() => {
+        component = render(<Cards />);
+    });
 
-it('renders correctly', () => {
-  renderer.create(<App />);
+    it("Render container cards", () => {
+        expect(component).toBeTruthy();
+        expect(component.getByTestId("scrollcards")).toBeTruthy();
+    });
+});
+
+describe("Render App", () => {
+    beforeEach(() => {
+        component = render(<App/>);
+    });
+    it("should render and render spinner loading app", () => {
+        expect(component).toBeTruthy();
+        expect(component.getByTestId("loader")).toBeTruthy();
+    });
 });
