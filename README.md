@@ -15,4 +15,46 @@ Things you may want to cover:
 - How to Use the Project.
 - Credits
 - Badges
+
+## Descripción
+
+## Uso
+
+### Instalar dependencias
+
+```
+npm install
+```
+
+### Ejecutar
+
+#### Cualquier entorno
+
+```
+npm start
+```
+
+#### Android
+
+```
+npm run android
+```
+
+#### iOS
+
+```
+npm run ios
+```
+
+#### Web
+
+```
+npm run web
+```
+
+### Pruebas
+
+```
+npm test
+```
   
