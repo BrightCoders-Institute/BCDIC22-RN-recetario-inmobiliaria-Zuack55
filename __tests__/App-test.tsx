@@ -1,27 +1,14 @@
 import React from "react";
-import { render } from "@testing-library/react-native";
-import Cards from "../components/Cards";
+import {create} from 'react-test-renderer';
 import App from "../App";
 
-let component: any;
+const testRenderer = create(<App />);
 
-describe("Cards", () => {
-    beforeEach(() => {
-        component = render(<Cards />);
-    });
-
-    it("Render container cards", () => {
-        expect(component).toBeTruthy();
-        expect(component.getByTestId("scrollcards")).toBeTruthy();
-    });
+test('App component renders correctly', () => {
+    expect(testRenderer).toMatchSnapshot();
 });
 
-describe("Render App", () => {
-    beforeEach(() => {
-        component = render(<App/>);
-    });
-    it("should render and render spinner loading app", () => {
-        expect(component).toBeTruthy();
-        expect(component.getByTestId("loader")).toBeTruthy();
-    });
+test('App component renders correctly loeader', () => {
+    const testInstance = testRenderer.root;
+    expect(testInstance.findByProps({testID: 'loader'})).toBeTruthy();
 });

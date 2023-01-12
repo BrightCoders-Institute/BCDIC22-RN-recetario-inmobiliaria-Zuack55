@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders correctly 1`] = `
+<View
+  style={
+    {
+      "flex": 1,
+    }
+  }
+  testID="loader"
+>
+  <ActivityIndicator
+    color="#00B074"
+    size={70}
+    style={
+      {
+        "marginTop": 300,
+      }
+    }
+  />
+</View>
+`;

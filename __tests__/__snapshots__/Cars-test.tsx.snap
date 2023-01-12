@@ -1,0 +1,3653 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component renders correctly 1`] = `
+<View>
+  <RCTScrollView
+    testID="scrollcards"
+  >
+    <View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://http2.mlstatic.com/D_NQ_NP_780887-MLM52169171072_102022-O.webp",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.5
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              The Willows
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://upload.wikimedia.org/wikipedia/commons/4/47/Orchard_House_from_Little_Women.jpeg",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.2
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://http2.mlstatic.com/D_NQ_NP_780556-MLM52053919322_102022-O.webp",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.1
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://http2.mlstatic.com/D_NQ_NP_622602-MLM52358215652_112022-O.webp",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://i.pinimg.com/originals/c6/42/33/c6423322c5d41c78a283728ad776a279.gif",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.5
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://s37805.pcdn.co/fotocasa-life/wp-content/uploads/2019/07/mansiones-4.jpg.optimal.jpg",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.9
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://http2.mlstatic.com/D_NQ_NP_780887-MLM52169171072_102022-O.webp",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.5
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://elceo.com/wp-content/uploads/2019/02/casa.jpg",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.7
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://realestatemarket.com.mx/images/2020/06-Junio/3006/mayo_venta_vivienda_estados_unidos_g.jpeg",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.8
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://img.jamesedition.com/listing_images/2022/05/31/15/10/36/98e6abc6-24e5-46cd-bdd9-08e286707392/je/1000x620xc.jpg",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                4.9
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+        testID="DataInmovilearia"
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F5FDFF",
+              "borderColor": "#F5FDFF",
+              "borderRadius": 10,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "height": 170,
+              "justifyContent": "space-between",
+              "margin": 2,
+              "marginBottom": 20,
+              "marginLeft": 10,
+              "marginTop": 10,
+              "padding": 10,
+              "width": 370,
+            }
+          }
+        >
+          <View
+            testID="imgCard"
+          >
+            <Image
+              source={
+                {
+                  "uri": "https://marcianosmx.com/wp-content/uploads/2020/01/casa-en-los-estados-unidos-con-cesped.jpg",
+                }
+              }
+              style={
+                {
+                  "borderRadius": 10,
+                  "height": 120,
+                  "justifyContent": "center",
+                  "marginTop": 10,
+                  "width": 120,
+                }
+              }
+            />
+            <View
+              style={
+                {
+                  "backgroundColor": "#FBEDB7",
+                  "borderRadius": 10,
+                  "flexDirection": "row",
+                  "height": 25,
+                  "marginLeft": 35,
+                  "marginTop": -30,
+                  "width": 55,
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/start.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 15,
+                    "marginLeft": 5,
+                    "marginTop": 5,
+                    "width": 15,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "color": "#7A6229",
+                    "fontWeight": "bold",
+                    "marginLeft": 5,
+                    "marginTop": 2,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                5
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000000",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginLeft": 10,
+                  "marginTop": 10,
+                }
+              }
+            >
+              Orchard House
+            </Text>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Image
+                source={
+                  {
+                    "testUri": "../../../img/icons/ubicacion.png",
+                  }
+                }
+                style={
+                  {
+                    "height": 20,
+                    "marginLeft": 10,
+                    "marginTop": 10,
+                    "width": 20,
+                  }
+                }
+              />
+              <Text
+                style={
+                  {
+                    "fontSize": 15,
+                    "marginLeft": 5,
+                    "marginTop": 10,
+                  }
+                }
+              >
+                3517 W. Gray St. Utica
+              </Text>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 15,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/cama-alternativa.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  3
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/bathtub.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  2
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/zona.png",
+                    }
+                  }
+                  style={
+                    {
+                      "height": 25,
+                      "width": 25,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  230
+                   tf ²
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                {
+                  "flexDirection": "row",
+                  "marginLeft": 5,
+                  "marginTop": 10,
+                }
+              }
+            >
+              <View
+                style={
+                  {
+                    "flexDirection": "row",
+                  }
+                }
+              >
+                <Text
+                  style={
+                    {
+                      "color": "#000000",
+                      "fontSize": 20,
+                      "fontWeight": "bold",
+                      "marginLeft": 10,
+                    }
+                  }
+                >
+                  $ 
+                  440
+                  /m
+                </Text>
+              </View>
+              <View
+                style={
+                  {
+                    "alignItems": "center",
+                    "backgroundColor": "#00B074",
+                    "borderRadius": 100,
+                    "flexDirection": "row",
+                    "height": 30,
+                    "marginLeft": 113,
+                    "width": 30,
+                  }
+                }
+                testID="heartID"
+              >
+                <Image
+                  source={
+                    {
+                      "testUri": "../../../img/icons/corazonNe.png",
+                    }
+                  }
+                  style={
+                    {
+                      "alignContent": "center",
+                      "backgroundColor": "#00B074",
+                      "height": 15,
+                      "marginLeft": 8,
+                      "width": 15,
+                    }
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

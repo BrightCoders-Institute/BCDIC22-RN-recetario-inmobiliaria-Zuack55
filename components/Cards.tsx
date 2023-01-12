@@ -56,7 +56,7 @@ class ScrollViewExample extends Component {
                                             </View>
 
                                             {/* Icono de corazon color */}
-                                            <View style={styles.StyleIconsCorazonBack}>
+                                            <View testID='heartID' style={styles.StyleIconsCorazonBack}>
                                                 <Image source={require('../img/icons/corazonNe.png')} style={styles.StyleIconsCorazon} />
                                             </View>
                                         </View>
