@@ -61,7 +61,7 @@ npm test
 | Analizador de código           | Estado                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Codacy                         | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d3ebc13633e345e5bf7397b2980fb005)](https://www.codacy.com/gh/BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Zuack55/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Zuack55&amp;utm_campaign=Badge_Grade) |
-| CodeCov                        |                                                                                             |
+| CodeCov                        | [![codecov](https://codecov.io/gh/BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Zuack55/branch/main/graph/badge.svg?token=7rQynTUb57)](https://codecov.io/gh/BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Zuack55) |
 
 
 
